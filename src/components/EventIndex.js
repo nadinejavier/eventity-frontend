@@ -5,7 +5,7 @@ class EventIndex extends Component {
   render() {
     return (
       <div>
-        Post Index
+        Event Index
       </div> 
       );
   }
