@@ -5,8 +5,8 @@ class HomePage extends Component {
     return (
       <div>
         <h1> Welcome to Eventity </h1>
-        <h3><a href='#'>Sign Up </a></h3>
-        <h3><a href='#'>Log in </a></h3>
+        <h3><a href='/signup'>Sign Up </a></h3>
+        <h3><a href='/login'>Log in </a></h3>
 
       </div>)
   }

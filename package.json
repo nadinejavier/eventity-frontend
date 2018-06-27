@@ -5,8 +5,9 @@
   "dependencies": {
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
-    "react-router": "^4.2.0",
-    "react-scripts": "1.1.4"
+    "react-router": "^4.0.0",
+    "react-scripts": "1.1.4",
+    "react-sparklines": "^1.6.0"
   },
   "scripts": {
     "start": "react-scripts start",

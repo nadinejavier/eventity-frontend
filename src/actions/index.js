@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const ROOT_URL = 'localhost:3000/';
+const ROOT_URL = 'localhost:9000/';
 
 export const FETCH_EVENTS = 'FETCH_EVENTS';
 
