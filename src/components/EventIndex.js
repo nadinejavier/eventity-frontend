@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
-import { fetcheEvents } from '../actions';
+import { fetchEvents } from '../actions';
 import { Link } from 'react-router-dom';
+import _ from 'lodash';
 
 class EventIndex extends Component {
   componentDidMount() {
